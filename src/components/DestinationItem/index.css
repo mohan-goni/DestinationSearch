@@ -1,0 +1,15 @@
+.item-container {
+  margin: 10px 30px 10px 0px;
+  list-style-type: none;
+}
+.image {
+  height: 170px;
+  width: 200px;
+}
+.name {
+  width: 100px;
+  color: #252627;
+  font-size: 14px;
+  font-family: 'Roboto', 'Open Sans';
+  font-weight: bold;
+}
